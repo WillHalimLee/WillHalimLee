@@ -33,6 +33,6 @@ I'm a dedicated and innovative software developer with a Bachelor of Science in 
 
 ## Let's Connect 📫
 
-Feel free to reach out to me for collaborations, opportunities, or just to share ideas. Connect with me on [LinkedIn](www.linkedin.com/in/willhalimlee).
+- **Feel free to reach out to me for collaborations, opportunities, or just to share ideas. Connect with me on [LinkedIn](www.linkedin.com/in/willhalimlee).
 Thank you for stopping by my profile. Dive into my repositories to explore my projects and see what I've been up to. Let's create something amazing together!
 ---
