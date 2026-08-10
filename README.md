@@ -6,7 +6,6 @@ I'm a dedicated and innovative software developer with a Bachelor of Science in 
 
 - **University of Washington Tacoma, WA**
   - Bachelor of Science in Computer Science and Systems (Aug. 2022 – Feb. 2024)
-  - Dean’s List, 3.80 GPA
 
 ## Technical Skills 💻
 
